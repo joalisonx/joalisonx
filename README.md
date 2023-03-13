@@ -1,11 +1,11 @@
-<h2 align="center"> Hi, Im Joalison 👋</h2>
+<h2 align="center"> Eaee, sou o Joalison 👋</h2>
 
-* 💻 Im currently learning TypeScript!
-* 👀 Looking to network and make friends here
-* 😜 Interests: Coffee, Piano and Coding
-* ⛅ Plans for 2023: Evolve and contribute to Open-Source community
+* 💻 Estou atualmente focado em melhorar minhas habilidades com TypeScript
+* 👀 Espero construir um network e criar amizades
+* 😜 Interesses: Café, Piano e Programação
+* ⛅ Planos para 2023: Evoluir e contribuir com a comunidade Open-Source
 
 <div align="center">
-  <h2> <strong> Day-to-day technologies </strong></h2>
+  <h2> <strong> Tecnologias do meu dia-a-dia </strong></h2>
   <img src="https://skillicons.dev/icons?i=ts,py,tailwind,git,mysql,mongo" alt="skills"> <br> 
 </div>
