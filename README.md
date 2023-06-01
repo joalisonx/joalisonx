@@ -1,8 +1,8 @@
 <h2 align="center"> Eaee, sou o Joalison 👋</h2>
 
 * 💻 Estou atualmente focado em melhorar minhas habilidades com TypeScript
-* 👀 Espero construir um network e criar amizades
-* 😜 Interesses: Café, Piano e Programação
+* 👀 Espero construir um networking e criar novas amizades
+* 😜 Interesses: Jogos, Piano e Programação
 * ⛅ Planos para 2023: Evoluir e contribuir com a comunidade Open-Source
 
 <div align="center">
